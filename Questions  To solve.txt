@@ -1,0 +1,20 @@
+Array Problems To solve
+Leetcode
+https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
+https://leetcode.com/problems/peak-index-in-a-mountain-array/description/
+https://leetcode.com/problems/merge-sorted-array/description/
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+GFG
+https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1
+
+
+For Strings Practice Questions to solve
+https://leetcode.com/problems/palindrome-number/submissions/2046639985/
+GFG
+https://www.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1
+https://www.geeksforgeeks.org/problems/longest-common-prefix-in-an-array5129/1
+https://www.geeksforgeeks.org/problems/non-repeating-element3958/1
+https://www.geeksforgeeks.org/problems/find-unique-element2632/1
