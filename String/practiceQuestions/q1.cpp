@@ -1,9 +1,9 @@
 // Print each character of a string.
 #include<iostream>
-#include<cstring>
 using namespace std;
 int main(){
-    string s="Anshuman";
-    char ch=s;
-    cout<<s;
+    string ss="Anshuman";
+    for (int i=0;i<ss.length();i++){
+        cout<<ss[i]<<" ";
+    }
 }
